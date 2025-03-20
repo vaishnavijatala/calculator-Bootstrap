@@ -1,0 +1,21 @@
+/* style.css */
+
+/* Center the calculator */
+body {
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+}
+
+/* Custom button style */
+.btn-custom {
+    height: 60px;
+    font-size: 1.5rem;
+}
+
+/* Input display style */
+input {
+    text-align: right;
+    font-size: 1.8rem;
+    height: 70px;
+}
